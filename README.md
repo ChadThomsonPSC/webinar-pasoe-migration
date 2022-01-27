@@ -19,3 +19,5 @@ Join the disucssion.  Share your thoughts and ideas in the Progress Community.
 The webinar materials are available:
 - [slides](presentation/slides)
 - [PDF](presentation/2022_PASOE_Migration_BestPractices_webinar.pdf) 
+
+View the presentation at [https://chadthomsonpsc.github.io/webinar-pasoe-migration/](https://chadthomsonpsc.github.io/webinar-pasoe-migration/)
