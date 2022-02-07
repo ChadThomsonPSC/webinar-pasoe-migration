@@ -7,7 +7,14 @@ Originally presented on January 27, 2022, this webinar discussed lessons learned
 - Discussion of various application considerations and monitoring PAS for OpenEdge​
 
 # PAS OE Discussion
-Join the disucssion.  Share your thoughts and ideas in the Progress Community.
+Join the disucssion.  
+
+## Presentation topics Q/A
+During the original presentation, there were many great questions, and there wasn't sufficient time to answer them all.
+
+Find your question in the [Discussions](https://github.com/ChadThomsonPSC/webinar-pasoe-migration/discussions) area.  There may be an answer available.
+
+## Share your thoughts and ideas in the Progress Community.
 
 [Best Practices on Migration to Progress Application Server (PAS) for OpenEdge](https://community.progress.com/s/question/0D54Q00009DFLW7SAP/january-27-best-practices-on-migration-to-progress-application-server-pas-for-openedge)
 
